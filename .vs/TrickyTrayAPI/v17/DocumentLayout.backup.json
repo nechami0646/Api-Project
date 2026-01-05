@@ -1,0 +1,731 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\donorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\buyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\dtos\\giftorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\dtos\\giftorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\giftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\dtos\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\dtos\\giftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\igiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\igiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\igiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\igiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\controllers\\donorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\ordergiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\ordergiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\models\\gift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\idonorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\donorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\idonorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\idonorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\dtos\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\dtos\\donordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\dtos\\ordergiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\dtos\\ordergiftdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\dtos\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\dtos\\buyerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\dtos\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\ordergiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\ordergiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\controllers\\cartcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\controllers\\cartcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\iauthservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\iauthservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\buyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\buyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\ibuyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\ibuyerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\ibuyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\ibuyerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\controllers\\buyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\iordergiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\iordergiftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\ordreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\ordreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\services\\iordergiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\services\\iordergiftservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\models\\ordergift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\models\\ordergift.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\data\\trickytraydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\data\\trickytraydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\models\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|c:\\users\\\u05E8\u05D5\u05EA\u05D9\\documents\\api\\trickytrayapi\\trickytrayapi\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48A3D822-3EB3-49B4-ABC1-9AA1F1BEE1AC}|TrickyTrayAPI\\TrickyTrayAPI.csproj|solutionrelative:trickytrayapi\\models\\donor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiftController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\GiftController.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Controllers\\GiftController.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\GiftController.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Controllers\\GiftController.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwJUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:30:46.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGiftService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IGiftService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\IGiftService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IGiftService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\IGiftService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:51.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiftOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\GiftOrderDto.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\DTOs\\GiftOrderDto.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\GiftOrderDto.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\DTOs\\GiftOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T21:12:36.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GiftDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\GiftDto.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\DTOs\\GiftDto.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\GiftDto.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\DTOs\\GiftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:29:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\GiftRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\GiftRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\GiftRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\GiftRepository.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAIwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:12:28.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuyerService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\BuyerService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\BuyerService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\BuyerService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\BuyerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:17:41.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:34:53.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DonorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\DonorRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\DonorRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\DonorRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\DonorRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T14:49:10.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GiftService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\GiftService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\GiftService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\GiftService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\GiftService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAmwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T16:44:58.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IGiftRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\IGiftRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IGiftRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\IGiftRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:27.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderGiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\OrderGiftRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\OrderGiftRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\OrderGiftRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\OrderGiftRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:21:35.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Order.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:30:35.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Gift.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Gift.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Models\\Gift.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Gift.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Models\\Gift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T19:06:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DonorController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\DonorController.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Controllers\\DonorController.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\DonorController.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Controllers\\DonorController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAqwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:30:43.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IDonorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IDonorService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\IDonorService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IDonorService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\IDonorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:47.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DonorService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\DonorService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\DonorService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\DonorService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\DonorService.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:19:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IDonorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IDonorRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\IDonorRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IDonorRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\IDonorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:32.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DonorDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\DonorDto.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\DTOs\\DonorDto.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\DonorDto.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\DTOs\\DonorDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T18:14:05.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderGiftDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\OrderGiftDto.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\DTOs\\OrderGiftDto.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\OrderGiftDto.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\DTOs\\OrderGiftDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T16:33:23.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\appsettings.json",
+              "RelativeToolTip": "TrickyTrayAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-18T21:13:28.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuyerDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\BuyerDto.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\DTOs\\BuyerDto.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\BuyerDto.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\DTOs\\BuyerDto.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAmwDkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:20:51.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T21:11:52.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T21:54:25.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OrderGiftService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\OrderGiftService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\OrderGiftService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\OrderGiftService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\OrderGiftService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA7wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T21:36:52.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\DTOs\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\DTOs\\LoginRequestDto.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\DTOs\\LoginRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:19:33.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T17:19:29.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CartController .cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\CartController .cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Controllers\\CartController .cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\CartController .cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Controllers\\CartController .cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T21:48:35.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IBuyerService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IBuyerService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\IBuyerService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IBuyerService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\IBuyerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:43.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TrickyTrayAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-30T21:14:31.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IBuyerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IBuyerRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\IBuyerRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IBuyerRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\IBuyerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:16:51.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthService.cs.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IAuthService.cs.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\IAuthService.cs.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IAuthService.cs.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\IAuthService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T15:35:38.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Program.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Program.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Program.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:07:13.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BuyerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\BuyerRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\BuyerRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\BuyerRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\BuyerRepository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:12:26.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BuyerController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\BuyerController.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Controllers\\BuyerController.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Controllers\\BuyerController.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Controllers\\BuyerController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowAwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:37:35.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:35.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "IOrderGiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IOrderGiftRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\IOrderGiftRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\IOrderGiftRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\IOrderGiftRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrdreService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\OrdreService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\OrdreService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\OrdreService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\OrdreService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T21:19:24.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IOrderService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:56.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IOrderGiftService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IOrderGiftService.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Services\\IOrderGiftService.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Services\\IOrderGiftService.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Services\\IOrderGiftService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:11:59.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:19:09.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrderGift.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\OrderGift.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Models\\OrderGift.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\OrderGift.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Models\\OrderGift.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:34:37.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "TrickyTrayDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Data\\TrickyTrayDbContext.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Data\\TrickyTrayDbContext.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Data\\TrickyTrayDbContext.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Data\\TrickyTrayDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T20:58:39.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Buyer.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Models\\Buyer.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Buyer.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Models\\Buyer.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T19:21:14.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Donor.cs",
+              "DocumentMoniker": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Donor.cs",
+              "RelativeDocumentMoniker": "TrickyTrayAPI\\Models\\Donor.cs",
+              "ToolTip": "C:\\Users\\\u05E8\u05D5\u05EA\u05D9\\Documents\\API\\TrickyTrayAPI\\TrickyTrayAPI\\Models\\Donor.cs",
+              "RelativeToolTip": "TrickyTrayAPI\\Models\\Donor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:40:40.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

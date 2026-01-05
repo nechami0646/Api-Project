@@ -1,0 +1,15 @@
+﻿using TrickyTrayAPI.DTOs;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace TrickyTrayAPI.Services
+{
+    public interface IBuyerService
+    {
+        Task<IEnumerable<BuyerViewDto>> GetAllAsync();
+        Task<BuyerViewDto?> GetByIdAsync(int id);
+        Task<BuyerViewDto> CreateAsync(BuyerCreateDto createDto);
+        Task<BuyerViewDto?> UpdateAsync(int id, BuyerUpdateDto updateDto);
+        Task<bool> DeleteAsync(int id);
+    }
+}

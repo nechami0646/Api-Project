@@ -1,0 +1,74 @@
+﻿using TrickyTrayAPI.DTOs;
+using TrickyTrayAPI.Models;
+using TrickyTrayAPI.Repositories;
+using static TrickyTrayAPI.DTOs.BuyerDto;
+
+namespace TrickyTrayAPI.Services
+{
+    public class DonorService
+    {
+        private readonly DonorRepository _donorRepo;
+        public DonorService(DonorRepository donorRepo)
+        {
+            _donorRepo = donorRepo;
+        }
+
+        public async Task<IEnumerable<DonorViewDto>> GetAllAsync()
+        {
+            var donors = await _donorRepo.GetAllAsync();
+
+            return donors.Select(d => MapToViewDto(d));
+        }
+
+        public async Task<DonorViewDto?> GetByIdAsync(int id)
+        {
+            var donor = await _donorRepo.GetByIdAsync(id);
+
+            return donor != null ? MapToViewDto(donor) : null;
+        }
+        private DonorViewDto MapToViewDto(Donor d)
+        {
+            return new DonorViewDto
+            {
+                Id = d.Id,
+                Name = d.Name,
+            };
+        }
+
+        public async Task<DonorViewDto> CreateAsync(DonorCreateDto createDto)
+        {
+
+            var donor = new Donor
+            {
+                Name = createDto.Name,
+                Email = createDto.Email ?? string.Empty,
+                Phone = createDto.Phone,
+            };
+
+
+            var savedDonor = await _donorRepo.CreateAsync(donor);
+
+
+            return MapToViewDto(savedDonor);
+        }
+
+        public async Task<DonorViewDto?> UpdateAsync(int id, DonorUpdateDto updateDto)
+        {
+            var existingDonor = await _donorRepo.GetByIdAsync(id);
+            if (existingDonor == null) return null;
+
+            if (updateDto.Name != null) existingDonor.Name = updateDto.Name;
+            if (updateDto.Email != null) existingDonor.Email = updateDto.Email;
+            if (updateDto.Phone != null) existingDonor.Phone = updateDto.Phone;
+
+            var update = await _donorRepo.UpdateAsync(existingDonor);
+            return update != null ? MapToViewDto(update) : null;
+        }
+
+        public async Task<bool> DeleteAsync(int id)
+        {
+            return await _donorRepo.DeleteAsync(id);
+        }
+
+    }
+}

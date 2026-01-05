@@ -1,0 +1,22 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using TrickyTrayAPI.Services;
+
+[ApiController]
+[Route("api/order")]
+public class OrderController : ControllerBase
+{
+    private readonly OrderService _orderService;
+
+    public OrderController(OrderService orderService)
+    {
+        _orderService = orderService;
+    }
+
+    // יצירת הזמנה חדשה (טיוטה)
+    [HttpPost("create/{buyerId}")]
+    public async Task<IActionResult> Create(int buyerId)
+    {
+        var order = await _orderService.CreateDraftAsync(buyerId);
+        return Ok(new { orderId = order.Id });
+    }
+}

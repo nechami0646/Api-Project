@@ -1,0 +1,14 @@
+﻿{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    //"TrickyTrayConnection": "Server=srv2\\pupils;Database=TrickyTrayDB;Initial Catalog=TrickyTrayDB;Integrated Security=True;TrustServerCertificate=True"
+    "TrickyTrayConnection": "Server=DESKTOP-FRV6PSE;Database=TrickyTrayDB;Initial Catalog=TrickyTrayDB;Integrated Security=True;TrustServerCertificate=True"
+
+  }
+}
