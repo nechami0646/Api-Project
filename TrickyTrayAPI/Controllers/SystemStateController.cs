@@ -14,7 +14,7 @@ namespace TrickyTrayAPI.Controllers
             _service = service;
         }
 
-        // 📌 השגת הסטטוס הנוכחי
+        // השגת הסטטוס הנוכחי
         [HttpGet]
         public ActionResult<SystemState> GetState()
         {
@@ -22,7 +22,7 @@ namespace TrickyTrayAPI.Controllers
             return Ok(state);
         }
 
-        // 📌 פתיחת המכירה (Start)
+        //  פתיחת המכירה
         [HttpPost("start")]
         public IActionResult StartSale()
         {
@@ -37,7 +37,7 @@ namespace TrickyTrayAPI.Controllers
             }
         }
 
-        // 📌 סיום המכירה והגרלה (Finish)
+        // סיום המכירה והגרלה
         [HttpPost("finish")]
         public IActionResult FinishSale()
         {
@@ -52,7 +52,7 @@ namespace TrickyTrayAPI.Controllers
             }
         }
 
-        // 📌 איפוס המערכת (Reset)
+        // איפוס המערכת 
         [HttpPost("reset")]
         public IActionResult Reset()
         {
