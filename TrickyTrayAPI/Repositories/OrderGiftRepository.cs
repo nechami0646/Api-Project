@@ -13,7 +13,6 @@ namespace TrickyTrayAPI.Repositories
             _context = context;
         }
 
-        // הוספת מתנה לסל
         public async Task<bool> AddGiftAsync(int orderId, int giftId)
         {
             var order = await _context.Orders.FindAsync(orderId);
@@ -35,7 +34,6 @@ namespace TrickyTrayAPI.Repositories
             return true;
         }
 
-        // הסרת מתנה מהסל
         public async Task<bool> RemoveGiftAsync(int orderId, int giftId)
         {
             var order = await _context.Orders.FindAsync(orderId);
@@ -52,7 +50,6 @@ namespace TrickyTrayAPI.Repositories
             return true;
         }
 
-        // קבלת כל ההזמנות עבור מתנה מסוימת
         public async Task<List<OrderGift>> GetOrdersForGiftAsync(int giftId)
         {
             return await _context.OrderGift
