@@ -24,19 +24,16 @@ namespace TrickyTrayAPI.Data
         {
             base.OnModelCreating(modelBuilder);
 
-            // Donor -> Gifts (one-to-many)
             modelBuilder.Entity<Gift>()
                 .HasOne(g => g.Donor)
                 .WithMany(d => d.Gifts)
                 .HasForeignKey(g => g.DonorId);
 
-            // Buyer -> Orders (one-to-many)
             modelBuilder.Entity<Order>()
                 .HasOne(o => o.Buyer)
                 .WithMany()
                 .HasForeignKey(o => o.BuyerId);
 
-            // Order <-> Gift via OrderGift (many-to-many עם טבלת ביניים)
             modelBuilder.Entity<OrderGift>()
                 .HasOne(og => og.Order)
                 .WithMany(o => o.OrderGifts)
